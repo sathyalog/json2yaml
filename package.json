@@ -1,0 +1,18 @@
+{
+  "name": "parsejson",
+  "version": "1.0.0",
+  "description": "read and write json using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sathya",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "express-prettify": "0.0.10",
+    "json2yaml": "^1.1.0",
+    "require": "^2.4.20"
+  }
+}
